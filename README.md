@@ -1,2 +1,2 @@
 # geeksforgeeks
-It's a repo contained all files of geeksforgeeks questions in c++ which I have stored while learning.
+In this repo, I have stored all the problems solutions that I have solved on geeksforgeeks.
